@@ -1,0 +1,7 @@
+echo "# gz" >> README.md
+git init
+git add README.mdss
+git commit - "first commit"
+git branch - main
+git remote add origin https://github.com/gzcrypto2/gz.git
+git push -u origin mainet
